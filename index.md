@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## FC Test page 2
 
 You can use the [editor on GitHub](https://github.com/farmerchris/test_pages_2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
